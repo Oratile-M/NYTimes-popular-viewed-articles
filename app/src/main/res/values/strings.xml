@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="views_arrays">
+        <item>1 day</item>
+        <item>7 days</item>
+        <item>30 days</item>
+
+    </string-array>
+</resources>
